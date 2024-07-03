@@ -6,7 +6,7 @@ Based on the data of desk prediction frame in the classroom detected by yolov5, 
 ```
 git clone https://github.com/HuiFaLiu/Row-and-column-coordinates-fit.git
 ```
-##2.Data preparation   
+2.Data preparation   
 Download and decompress the Prediction_frame_data.zip file. 
 
 3.Create a Python virtual environment
