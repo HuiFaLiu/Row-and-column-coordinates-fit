@@ -49,6 +49,7 @@ motify the img_path to the path of the folder where the images are located
 such as:
 ```
 img_path = 'C:/Users/27210/Desktop/课桌行列/test-data3/labels' //folder located in labels in the Prediction_frame_data.zip file
+```
 motify save_dir to the path where you want to save the result images   
 such as: 
 ```
