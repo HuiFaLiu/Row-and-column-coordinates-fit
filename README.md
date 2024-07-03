@@ -28,6 +28,7 @@ motify the img_path to the path of the image you want to test
 such as:
 ```
 img_path = 'C:/Users/27210/Desktop/课桌行列/test-data3/labels/vacant_1370.txt' //txt file located in labels in the Prediction_frame_data.zip file
+```
 motify save_dir to the path where you want to save the result image   
 such as: 
 ```
